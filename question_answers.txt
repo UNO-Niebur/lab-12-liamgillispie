@@ -1,0 +1,4 @@
+The sorted list, it is already sorted so less comparison and swaps are needed and it is easier for it to be sorted, especially when it is already fully sorted.
+The reverse sorted list, there have to be more comparisons and swaps (the max amount) since the list is in reverse to where it is when it is sorted.
+Sorting enables faster searching (linear vs binary search), less checking has to be done. 
+When a list is small and unsorted, and/or if you only need to check a few items in a list. 
